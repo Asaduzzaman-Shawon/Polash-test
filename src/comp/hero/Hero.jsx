@@ -77,7 +77,7 @@ const Hero = () => {
                   Login with google
                 </button>
                 <button onClick={handleGit} className="btn btn-neutral mt-4">
-                  Login with githu
+                  Login with githunn
                 </button>
                   </>
                 )}
